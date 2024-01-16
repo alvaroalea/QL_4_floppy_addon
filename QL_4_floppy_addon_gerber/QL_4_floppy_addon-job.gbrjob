@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.10+1"
     },
-    "CreationDate": "2024-01-16T19:36:21+01:00"
+    "CreationDate": "2024-01-16T21:52:30+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "trump_card_4floppy_addon",
-      "GUID": "7472756d-705f-4636-9172-645f34666c6f",
+      "Name": "QL_4_floppy_addon",
+      "GUID": "514c5f34-5f66-46c6-9f70-70795f616464",
       "Revision": "00"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "trump_card_4floppy_addon-F_Cu.gbr",
+      "Path": "QL_4_floppy_addon-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "trump_card_4floppy_addon-B_Cu.gbr",
+      "Path": "QL_4_floppy_addon-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "trump_card_4floppy_addon-F_Paste.gbr",
+      "Path": "QL_4_floppy_addon-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "trump_card_4floppy_addon-B_Paste.gbr",
+      "Path": "QL_4_floppy_addon-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "trump_card_4floppy_addon-F_Silkscreen.gbr",
+      "Path": "QL_4_floppy_addon-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "trump_card_4floppy_addon-B_Silkscreen.gbr",
+      "Path": "QL_4_floppy_addon-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "trump_card_4floppy_addon-F_Mask.gbr",
+      "Path": "QL_4_floppy_addon-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "trump_card_4floppy_addon-B_Mask.gbr",
+      "Path": "QL_4_floppy_addon-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "trump_card_4floppy_addon-Edge_Cuts.gbr",
+      "Path": "QL_4_floppy_addon-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

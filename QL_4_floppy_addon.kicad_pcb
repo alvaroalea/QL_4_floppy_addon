@@ -78,7 +78,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "trump_card_4floppy_addon_gerber/")
+      (outputdirectory "QL_4_floppy_addon_gerber/")
     )
   )
 

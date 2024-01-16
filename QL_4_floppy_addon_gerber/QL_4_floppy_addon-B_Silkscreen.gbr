@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.10+1*%
-%TF.CreationDate,2024-01-16T19:36:21+01:00*%
-%TF.ProjectId,trump_card_4floppy_addon,7472756d-705f-4636-9172-645f34666c6f,00*%
+%TF.CreationDate,2024-01-16T21:52:30+01:00*%
+%TF.ProjectId,QL_4_floppy_addon,514c5f34-5f66-46c6-9f70-70795f616464,00*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.10+1) date 2024-01-16 19:36:21*
+G04 Created by KiCad (PCBNEW 7.0.10+1) date 2024-01-16 21:52:30*
 %MOMM*%
 %LPD*%
 G01*
