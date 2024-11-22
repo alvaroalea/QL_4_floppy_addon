@@ -10,7 +10,7 @@ This board has been reverse engineered from pictures.
 
 THIS BOARD HAS NOT BEEN TESTED!! Use at your own risk.
 
-##Information
+## Information
 
 This adapter is intended to connect 4 disc drives to one interface disc on the Sinclair QL Computer.
 
